@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4159778126",
+    "hash" : "0",
     "id" : "9808BC8E",
     "lastKnownWriteTime" : 1581529443,
     "last_content_update" : 1581529443,
     "path" : "~/R/Weather Project/Useful R scripts/permutation.test.R",
     "project_path" : "Useful R scripts/permutation.test.R",
     "properties" : {
+        "cursorPosition" : "80,0",
+        "scrollLine" : "78"
     },
     "read_only" : false,
     "read_only_alternatives" : [

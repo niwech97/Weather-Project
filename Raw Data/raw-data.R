@@ -1,6 +1,9 @@
+
+
+
 install.packages("weathercan")
 install.packages("devtools") # If not already installed
-devtools::install_github("ropensci/weathercan") 
+devtools::install_github("ropensci/weathercan")
 ??weathercan
 stations_new<-stations_dl()
 library(weathercan)
@@ -28,5 +31,27 @@ plot(lil.day$max_temp,lil.day$total_precip)
 plot(van.day$max_temp,van.day$total_precip)
 
 
+#Saving as pdf to files
+pdf(file=paste(path.maybefigs,"Squamish.day.maxtemp.totprecip.pdf",sep="/"),
+    width=4,height=4)
+plot(squam.day$max_temp,squam.day$total_precip)
+dev.off()
 
 
+pdf(file=paste(path.maybefigs,"Pemb.day.maxtemp.totprecip.pdf",sep="/"),
+    width=4,height=4)
+plot(pemb.day$max_temp,pemb.day$total_precip)
+dev.off()
+
+pdf(file=paste(path.maybefigs,"Lil.day.maxtemp.totprecip.pdf",sep="/"),
+    width=4,height=4)
+plot(lil.day$max_temp,lil.day$total_precip)
+dev.off()
+
+pdf(file=paste(path.maybefigs,"Van.day.maxtemp.totprecip.pdf",sep="/"),
+    width=4,height=4)
+plot(van.day$max_temp,van.day$total_precip)
+dev.off()
+
+
+#wrong graphs made, dont sweat it just make more graphs

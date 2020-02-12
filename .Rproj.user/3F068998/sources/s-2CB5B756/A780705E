@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "91511552",
+    "hash" : "3704914503",
     "id" : "A780705E",
-    "lastKnownWriteTime" : 1581530112,
-    "last_content_update" : 1581530112,
+    "lastKnownWriteTime" : 1581541293,
+    "last_content_update" : 1581541293751,
     "path" : "~/R/Weather Project/Raw Data/raw-data.R",
     "project_path" : "Raw Data/raw-data.R",
     "properties" : {
+        "cursorPosition" : "57,0",
+        "scrollLine" : "55"
     },
     "read_only" : false,
     "read_only_alternatives" : [
