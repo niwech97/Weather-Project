@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581530147899.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "91511552",
+    "id" : "A780705E",
+    "lastKnownWriteTime" : 1581530112,
+    "last_content_update" : 1581530112,
+    "path" : "~/R/Weather Project/Raw Data/raw-data.R",
+    "project_path" : "Raw Data/raw-data.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

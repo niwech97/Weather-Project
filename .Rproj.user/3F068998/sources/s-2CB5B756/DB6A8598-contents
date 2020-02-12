@@ -1,0 +1,10 @@
+#Weather Project Main 
+
+
+R.version.string
+#"R version 3.6.2 (2019-12-12)"
+
+
+#setup working directory pathway
+working.dir <- getwd()
+

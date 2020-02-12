@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581530160826.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4159778126",
+    "id" : "9808BC8E",
+    "lastKnownWriteTime" : 1581529443,
+    "last_content_update" : 1581529443,
+    "path" : "~/R/Weather Project/Useful R scripts/permutation.test.R",
+    "project_path" : "Useful R scripts/permutation.test.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
