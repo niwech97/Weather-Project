@@ -11,8 +11,7 @@ working.dir <- getwd()
 #store future file names in an object
 output.folder.names <- c("Clean Folder", "Figures of interest", 
                          "Raw Data","Final R scripts","Potential Analysis",
-                         "Relevant Analysis","Relevant Graphics",
-                         "Potential Graphics","Useful R scripts")
+                         "Relevant Analysis","Relevant Graphics","Useful R scripts")
 
 # and make the folders if they don't exit yet. 
 for(i in 1:length(output.folder.names)) 
@@ -26,5 +25,15 @@ path.finalR<- paste(working.dir, "/", output.folder.names[4], "/", sep = "")
 path.potan<- paste(working.dir, "/", output.folder.names[5], "/", sep = "")
 path.finan<- paste(working.dir, "/", output.folder.names[6], "/", sep = "")
 path.fingraph<- paste(working.dir, "/", output.folder.names[7], "/", sep = "")
-path.potgraph<- paste(working.dir, "/", output.folder.names[8], "/", sep = "")
-path.extr<- paste(working.dir, "/", output.folder.names[9], "/", sep = "")
+path.extr<- paste(working.dir, "/", output.folder.names[8], "/", sep = "")
+
+
+
+
+
+
+
+
+
+
+# to send things to a folder, 

@@ -58,3 +58,7 @@ dev.off()
 
 #I think in order for me to see anything you have to hist ctrl+s
 #and that saves the document which lets me see it
+
+#it's like google docs for code!
+
+#lol yes, and it can read inside of the r script
